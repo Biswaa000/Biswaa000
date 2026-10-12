@@ -108,16 +108,14 @@ I build applications with **Artificial Intelligence, Machine Learning, NLP, and 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=biswaa000&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswaa000&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=biswaa000&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biswaa000&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=biswaa000&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=biswaa000&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=biswaa000&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <br/>
 
